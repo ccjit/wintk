@@ -5,6 +5,7 @@
 // Original made by ccjit with JavaScript, her site: https://ccjit.github.io/my-site
 
 let webtk = {
+    version: "0.0.1",
     create: {
         text: (text, id, newline, size) => {
             if (!text) text = "Placeholder Text"
